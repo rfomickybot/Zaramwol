@@ -21,16 +21,6 @@ Project created by <a href="https://github.com/neera-j">Neeraj</a> to make it pu
 
 ----
 
-  <p align="center">
-  <a href="https://github.com/Jokerser-x-Raashii/Zaramwol ">
-    <img src="https://img.shields.io/github/repo-size/Jokerser-x-Raashii/Zaramwol?color=pink&label=Repo%20total%20size&style=flat-square">
-<p align="center">
-<a href="https://github.com/Jokerser-x-Raashii/followers"><img title="Followers" src="https://img.shields.io/github/followers/Jokerser-x-Raashii?color=grey&style=plastic"></a>
-<a href="https://github.com/Jokerser-x-Raashii/Zaramwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Jokerser-x-Raashii/Zaramwol?color=grey&style=plastic"></a>
-<a href="https://github.com/Jokerser-x-Raashii/Zaramwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Jokerser-x-Raashii/Zaramwol?color=grey&style=plastic"></a>
-<a href="https://github.com/Jokerser-x-Raashii/Zaramwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Jokerser-x-Raashii/Zaramwol?label=Watchers&color=grey&style=flat-circle"></a>
-<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-pink.svg"</a>
-
 ```
   
 Zara - Zara Userbot is Open Source software open to development. 
@@ -54,9 +44,9 @@ the user is responsible.
 
   ### <u> Simple Method <u>
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Raashii/ZaraMwol)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@neera-j/Luttappi)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jokerser-x-Raashii/Zaramwol)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=android-app%3A%2F%2Forg.telegram.plus&template=https%3A%2F%2Fgithub.com%2Fneera-j%2Fluttappiwa)
      </div>
 <br>
 <br >
@@ -70,7 +60,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Jokerser-x-Raashii/Zaramwol
+$ git clone https://github.com/neera-j/luttappiwa
 $ cd Zaramwol
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -80,7 +70,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Jokerser-x-Raashii/Zaramwol
+$ git clone https://github.com/neera-j/luttappiwa
 $ cd Zaramwol
 $ chmod +x *
 $ npm i
@@ -99,7 +89,7 @@ This project is open source so all the codes are clear. Neither less nor more; y
 If you are concerned about security, you can install it on your own computer. If you think someone else has captured your data, simply click on **Whatsapp> Three Dots> Whatsapp Web> Logout** from all sessions button.
 
 ### Is it paid?
-**Of course not.** It will never happen. But you can donate to us. You can reach me via [Telegram](https://t.me/fusuf) .
+**Of course not.** It will never happen. But you can donate to us. You can reach me via [Telegram](https://t.me/neer_j) .
 
 ### ⚠️ Warning! 
 ```
@@ -112,10 +102,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Raashii](https://github.com/Raashii.png?size=100)](https://github.com/Raashii) |  [![Jokerser](https://github.com/j0kerser.png?size=100)](https://github.com/j0kerser) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
-----|----|----
-[Raashii](https://github.com/Raashii)  | [Jokerser](https://github.com/j0kerser) | [afnanplk](https://github.com/afnanplk)
-Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
+  [![Raashii](https://github.com/neera-j.png?size=100)](https://github.com/neera-j)
   </div>
 
 
