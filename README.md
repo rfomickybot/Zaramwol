@@ -4,15 +4,15 @@
 <div align="center">
   <img border-radius: 15px src="https://i.ibb.co/9rrnJ7g/20210815-080839.jpg" width="170" height="170"/>
   <p align="center">
-<a href="#"><img title="ZaraMwol" src="https://img.shields.io/badge/-ZaraMwol-pink?&style=for-the-badge"></a>
+<a href="#"><img title="Luttappi" src="https://img.shields.io/badge/-Luttappi-red?&style=for-the-badge"></a>
 </p>
   </p>
 <p align="center">
-<a href="https://github.com/Raashii"><img title="Raashii" src="https://img.shields.io/badge/author-Raashii?color=blue&style=for-the-badge&logo=github"></a>
+<a href="https://github.com/neera-j"><img title="Raashii" src="https://img.shields.io/badge/author-Raashii?color=blue&style=for-the-badge&logo=github"></a>
 
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Raashii">Raashii</a> to make it public
+Project created by <a href="https://github.com/neera-j">Neeraj</a> to make it public
     <br>
        | © |
         Reserved |
