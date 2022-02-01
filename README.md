@@ -44,10 +44,10 @@ the user is responsible.
 
   ### <u> Simple Method <u>
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@neera-j/Luttappi)
+[![Run on Repl.it](https://replit.com/badge/github/lyfe00011/whatsapp-bot)](https://replit.com/@Nightbot2O/baileys-qr)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=android-app%3A%2F%2Forg.telegram.plus&template=https%3A%2F%2Fgithub.com%2Fneera-j%2Fluttappiwa)
-     </div>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rfomickybot/Zaramwol)
+
 <br>
 <br >
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
