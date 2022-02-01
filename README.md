@@ -1,50 +1,69 @@
-<div align="center">
-<img 
-src="https://s10.gifyu.com/images/87644b9756a75c15a840372f61531b14.png" alt="img" width="220" height="30"/>
-</p>
-        <img 
-src="https://tenor.com/view/school-live-cute-hello-anime-girl-yuki-takeya-gif-14815980.gif" alt="GIF" width="220" height="190"/>
-</p>
+## Thanks for Everything 
+### We will always remember you..
 
+<div align="center">
+  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/8382372?v=4" width="170" height="170"/>
+  <p align="center">
+<a href="#"><img title="LiyaMol" src="https://img.shields.io/badge/LiyaMol-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+  <p align="center">
+<a href="https://github.com/saidalisaid2"><img title="Author" src="https://img.shields.io/badge/Author-saidali/LiyaMol?color=black&style=for-the-badge&logo=whatsapp"></a>
+</p>
 </div>
 <p align="center">
-ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/Raashii">Raashii</a>
+Project created by <a href="https://github.com/saidalisaid2">saidali</a> to make it public
     <br>
        | © |
-        Reserved 
+        Reserved |
     <br> 
 </p>
 
-- - -
+----
 
-<div align="center">
-
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=san+serif&color=%23F786EB&size=15&lines=We+Cloned+A+Base+Added+Some+Scripts;Now+U+Can+Deploy+Ur+Self%2C+Enjoy+The+Service)](https://git.io/typing-svg)
+  <p align="center">
+  <a href="https://github.com/saidalisaid2/LiyaMol">
+    <img src="https://img.shields.io/github/repo-size/saidalisaid2/LiyaMol?color=green&label=Repo%20total%20size&style=wood">
 <p align="center">
-
-[![Run on Repl.it](https://replit.com/badge/github/lyfe00011/whatsapp-bot)](https://replit.com/@Nightbot2O/baileys-qr)
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg))](https://bit.ly/3KWtwCt)
-    
-- - -
-</p>
-</div>
-<div align="center">
-<a href="https://zaramwol.yolasite.com/">   𒊹︎︎︎𝐏𝐑𝐄𝐒𝐒 𝐇𝐄𝐑𝐄 𝐓𝐎 𝐕𝐈𝐒𝐈𝐓 𝐎𝐔𝐑 𝐖𝐄𝐁𝐒𝐈𝐓𝐄</a>
-    <br>
-</p>
-<div align="center">
-<details>
-    <summary><b>𝐏𝐑𝐄𝐒𝐒 𝐇𝐄𝐑𝐄 𝐓𝐎 𝐊𝐍𝐎𝐖 𝐌𝐎𝐑𝐄 𝐓𝐇𝐈𝐍𝐆𝐒</b></summary>
-
-</p>
+<a href="https://github.com/afnanplk/followers"><img title="Followers" src="https://img.shields.io/github/followers/afnanplk?color=red&style=flat-circle"></a>
+<a href="https://github.com/afnanplk/lastpink/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/afnanplk/lastpink?color=red&style=flat-square"></a>
+<a href="https://github.com/afnanplk/lastpink/network/members"><img title="Forks" src="https://img.shields.io/github/forks/afnanplk/lastpink?color=red&style=flat-square"></a>
+<a href="https://github.com/afnanplk/lastpink/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/afnanplk/lastpink?label=Watchers&color=red&style=flat-square"></a>
+<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 
 ```
-If Repl.it not working Try Termux for Qr scanning.
-    Just Copy the Link Below in Termux
-
-     bash <(curl -L https://t.ly/tHxh)
+  
+LiyaMol - ʟɪͥʏͭᴀᷤᴍᷟᴏͤʟ Userbot is Open Source software open to development. 
+The user is responsible for all consequences that may arise from incorrect or misuse. 
+Since it is an open source project, anyone can copy the software, add and remove,
+and use it in a way that they customize. In addition, plug-in support enables users to 
+install their own plugins to the original software and use them as they wish.
+Using the bot out of purpose will explicitly ban you.
+Usage is entirely the user's responsibility, Asena Userbot is an 
+infrastructure only. Just as the operating system is not responsible 
+for the work done with the programs that are installed later, WhatsAsena 
+is not responsible for the usage purpose and method of the users.
+Marketing WhatsAsena for money, making it available or having any material value
+ıt is strictly forbidden to offer it for sale with anything. All legal investigations that may arise
+the user is responsible.
 ```
+
+
+## Setup
+<div align="center">
+
+  ### Simple Method
+  
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@afnanplk/PinkyMwol-QR)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rfomickybot/LiyaMol)
+     </div>
+<br>
+<br >
+If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
+```
+bash <(curl -L https://t.ly/tHxh)
+``` 
+
 ## F.A.Q
 Answer a few frequently asked questions;
 ### Can you read my messages?
@@ -67,9 +86,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Raashii](https://github.com/Raashii.png?size=100)](https://github.com/Raashii) |  [![Jokerser](https://github.com/j0kerser.png?size=100)](https://github.com/j0kerser) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
-[Raashii](https://github.com/Raashii)  | [Jokerser](https://github.com/j0kerser) | [afnanplk](https://github.com/afnanplk)
+[farhan-dqz](https://github.com/farhan-dqz)  | [saidali](https://github.com/saidalisaid2) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
 
