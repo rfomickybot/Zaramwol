@@ -24,7 +24,7 @@ src="https://tenor.com/view/school-live-cute-hello-anime-girl-yuki-takeya-gif-14
 
 [![Run on Repl.it](https://replit.com/badge/github/lyfe00011/whatsapp-bot)](https://replit.com/@Nightbot2O/baileys-qr)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg))](https://github.com/rfomickybot/Zaramwol)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg))](https://bit.ly/3KWtwCt)
     
 - - -
 </p>
